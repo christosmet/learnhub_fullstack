@@ -1,0 +1,9 @@
+# Backend ignores (Django/Python)
+learnhub_backend/__pycache__/
+learnhub_backend/*.sqlite3
+learnhub_backend/.env
+learnhub_backend/venv/
+*.pyc
+
+# Frontend ignores (αυτά ΕΙΝΑΙ ΗΔΗ στο frontend/.gitignore, οπότε ΔΕΝ τα ξαναγράφουμε εδώ)
+# (π.χ., node_modules/, dist/, .env)
